@@ -1,0 +1,11 @@
+{
+  "code" : "EntityWithScript",
+  "name" : "Entity With Script",
+  "crudEventListenerScript" : "org.meveo.test.TestCrudScript",
+  "availableStorages" : [ "SQL" ],
+  "sqlStorageConfiguration" : {
+    "storeAsTable" : true
+  },
+  "samples" : [ ],
+  "audited" : false
+}

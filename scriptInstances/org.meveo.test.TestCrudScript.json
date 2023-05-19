@@ -1,0 +1,16 @@
+{
+  "code" : "org.meveo.test.TestCrudScript",
+  "description" : "test crudscript",
+  "inputs" : [ ],
+  "outputs" : [ {
+    "name" : "entityClass",
+    "type" : "Class<EntityWithScript>"
+  } ],
+  "generateOutputs" : false,
+  "type" : "JAVA",
+  "transactionType" : "SAME",
+  "executionRoles" : [ ],
+  "sourcingRoles" : [ ],
+  "mavenDependencies" : [ ],
+  "importScriptInstances" : [ ]
+}

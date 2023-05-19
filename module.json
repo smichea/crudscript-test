@@ -1,0 +1,10 @@
+{
+  "code" : "crudscript-test",
+  "description" : "test crudscript in module",
+  "license" : "GPL",
+  "currentVersion" : "0.1",
+  "isInDraft" : true,
+  "autoCommit" : false,
+  "moduleDependencies" : [ ],
+  "moduleFiles" : [ ]
+}

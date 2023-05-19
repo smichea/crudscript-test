@@ -1,0 +1,18 @@
+{
+    "storages": ["SQL"],
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "id": "EntityWithScript",
+    "title": "Entity With Script",
+    "type": "object",
+    "properties": {"name": {
+        "storages": ["SQL"],
+        "nullable": true,
+        "description": "name",
+        "readOnly": false,
+        "versionable": false,
+        "id": "CE_EntityWithScript_name",
+        "title": "EntityWithScript.name",
+        "type": "string",
+        "maxLength": 255
+    }}
+}
